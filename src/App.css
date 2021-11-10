@@ -1,0 +1,46 @@
+
+.App{
+    font-family: Montserrat, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:#f0f7f8;
+    height: 100vh;
+
+}
+h1 {
+    font-size: 6rem;
+    margin: auto;
+    text-align: center;
+
+}
+.btn1 button{ 
+    
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    border-color:transparent;
+    background-color:lightgrey;
+    margin: 7px;
+    font-weight: bold;
+    font-size: 3rem;
+    align-items: center;
+    cursor: pointer;
+ 
+}
+.btn1 button:hover{
+    background-color:white;
+}
+.btn1{
+    margin-top: 2rem;
+    text-align: center;
+}
+.negative {
+    color: #ff1744;
+  }
+  
+  .positive {
+    color: #2abf77;
+  }
+  
