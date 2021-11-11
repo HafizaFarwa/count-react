@@ -27,6 +27,7 @@ h1 {
     font-size: 3rem;
     align-items: center;
     cursor: pointer;
+    box-shadow:12px 12px #ff1744;
  
 }
 .btn1 button:hover{
